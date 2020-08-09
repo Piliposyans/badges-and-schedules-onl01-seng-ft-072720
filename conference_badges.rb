@@ -4,5 +4,3 @@ def conference_badges(names)
   end
 end 
 
-badge_maker("Arel")
-
