@@ -1,1 +1,1 @@
-def create_badge 
+def conference_badges
