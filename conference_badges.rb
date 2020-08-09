@@ -1,7 +1,5 @@
 def badge_maker(names)
-  names.each do { |name|
-    puts "Hello, my name is #{name}"
+  names.each do { |name| name = "Hello, my name #{Arel}." }
   end
 end 
 
-conference_badges(name)
