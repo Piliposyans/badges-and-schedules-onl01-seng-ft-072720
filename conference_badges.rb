@@ -17,6 +17,6 @@ def assign_rooms(attendees)
     new_badge.push("Hello, #{attendee}! You'll be assigned to room #{counter}!")
     counter += 1 
   end
-  return 
+  return new_badge 
 end 
   
