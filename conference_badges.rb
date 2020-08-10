@@ -1,5 +1,4 @@
-def badge_maker(names)
-  names.each { |name| name = "Hello, my name is #{Arel}." }
-end
+def badge_maker(name)
+  names.each do |name| 
 
 
